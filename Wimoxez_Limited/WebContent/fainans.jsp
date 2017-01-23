@@ -66,15 +66,18 @@
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                             <span class="fa fa-bars fa-lg"></span>
                         </button>
-                        <a class="navbar-brand" href="fainans.jsp">
-                            <h1>Fainans</h1>
-                        </a>
+                    
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
-                        <ul class="nav navbar-nav navbar-right">
+                        <ul class="nav navbar-nav navbar">
+                        <li> <a href="#home">Fainance
+                           
+                        </a></li>
+                        </ul>
+                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#about">Features</a>
                             </li>
                             <li><a href="#features">Solutions</a>
@@ -83,7 +86,7 @@
                             </li>
                             <li><a href="#screens">Support</a>
                             </li>
-                          
+                       
                       
          <li><a href="login.jsp">Login</a></li>
          </ul>
@@ -128,13 +131,13 @@
                         </div>
 
                         <div class="tp-caption large_white_bold sft" data-x="550" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-                            Oleose
+                            Business Accounting 
                         </div>
                         <div class="tp-caption large_white_light sfr" data-x="770" data-y="center" data-hoffset="0" data-voffset="-80" data-speed="500" data-start="1400" data-easing="Power4.easeOut">
-                            App
+                         
                         </div>
                         <div class="tp-caption large_white_light sfb" data-x="550" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1500" data-easing="Power4.easeOut">
-                            Landing Theme
+                            Software Based on Cloud
                         </div>
 
                         <div class="tp-caption sfb hidden-xs" data-x="550" data-y="center" data-hoffset="0" data-voffset="85" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
@@ -164,7 +167,7 @@
 
                         
                         <div class="tp-caption large_white_light sft" data-x="center" data-y="250" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1400" data-easing="Power4.easeOut">
-                            Every Pixel <i class="fa fa-heart"></i>
+                            Realtime Business
                         </div>
                         
                         
@@ -208,13 +211,13 @@
 
                         
                         <div class="tp-caption mediumlarge_light_white sfl hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="-50" data-speed="1000" data-start="1000" data-easing="Power4.easeOut">
-                           Powerful Responsive
+                          Better productivity
                         </div>
                         <div class="tp-caption mediumlarge_light_white sft hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="0" data-speed="1000" data-start="1200" data-easing="Power4.easeOut">
-                           App Landing Page
+                          Hassel free
                         </div>
                         <div class="tp-caption small_light_white sfb hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="80" data-speed="1000" data-start="1600" data-easing="Power4.easeOut">
-                           <p>Nulla pretium libero interdum, tempus lorem non, rutrum diam. <br> Quisque pellentesque diam sed pulvinar lobortis. Vestibulum ante <br>ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</p>
+                           <p>Fainance, a powerful business accounting software <br> for driving business growth, better productivity <br>without hassel.</p>
                         </div>
 
                         <div class="tp-caption lfl hidden-xs" data-x="left" data-y="center" data-hoffset="0" data-voffset="160" data-speed="1000" data-start="1800" data-easing="Power4.easeOut">
@@ -240,9 +243,9 @@
             <div class="container">
                 
                 <div class="section-heading scrollpoint sp-effect3">
-                    <h1>About Us</h1>
+                    <h1>Why Fainans</h1>
                     <div class="divider"></div>
-                    <p>Oleose Beautiful App Landing Page</p>
+                    <p>Some of product description</p>
                 </div>
 
                 <div class="row">
@@ -250,28 +253,28 @@
                         <div class="about-item scrollpoint sp-effect2">
                             <i class="fa fa-download fa-2x"></i>
                             <h3>Easy setup</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Fainans is simple and optimistic, so you’ll spend less time on paperwork and wow your clients with how professional you look.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect5">
                             <i class="fa fa-mobile fa-2x"></i>
-                            <h3>On-the-go</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <h3>Enriched Features</h3>
+                            <p>Automate time consuming tasks like organizing expenses, tracking your time, and following up with clients with just a few clicks.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect5">
                             <i class="fa fa-users fa-2x"></i>
-                            <h3>Social connect</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <h3>Cloud Based</h3>
+                            <p>Fainans lives in the cloud so you can securely access it from your desktop, phone and tablet wherever you are.</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-3 col-xs-6" >
                         <div class="about-item scrollpoint sp-effect1">
                             <i class="fa fa-sliders fa-2x"></i>
                             <h3>Dedicated support</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                            <p>Fainans team is dedicated for your support 24/7.</p>
                         </div>
                     </div>
                 </div>

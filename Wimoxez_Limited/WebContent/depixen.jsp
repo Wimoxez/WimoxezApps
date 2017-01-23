@@ -88,7 +88,7 @@
                                     Beautiful .
                                 </div>
                                 <div class="tp-caption italic large_white_light sfr hidden-xs" data-x="left" data-y="center" data-hoffset="335" data-voffset="-50" data-speed="700" data-start="1900" data-easing="Power4.easeOut">
-                                    Functional
+                                    Functional designs
                                 </div>
                                 <div class="tp-caption lfb " data-x="left" data-y="center" data-hoffset="0" data-voffset="25" data-speed="1000" data-start="1900" data-easing="Power4.easeOut">
                                     <a href="#about" class="btn btn-naked">Learn More About Us <span class="fa fa-angle-right"></span></a>
@@ -119,16 +119,16 @@
                                     <img src="depixen/img/samples/iphone.png" alt="">
                                 </div>
                                 <div class="tp-caption large_white_bold sft" data-x="520" data-y="center" data-hoffset="0" data-voffset="-120" data-speed="500" data-start="1200" data-easing="Power4.easeOut">
-                                    <h1>.welcome</h1>
+                                    <h1>Designing became<br> easy<br> with Depixen</h1>
                                 </div>
                                 <div class="tp-caption large_white_light sfb" data-x="520" data-y="center" data-hoffset="0" data-voffset="-40" data-speed="1000" data-start="1300" data-easing="Power4.easeOut">
-                                    We Develop
+                                    
                                 </div>
                                 <div class="tp-caption large_white_light sfb" data-x="520" data-y="center" data-hoffset="0" data-voffset="10" data-speed="1000" data-start="1300" data-easing="Power4.easeOut">
-                                    Beautiful & Functional
+                                   We Develop Beautiful & Functional
                                 </div>
                                 <div class="tp-caption large_white_light sfb" data-x="520" data-y="center" data-hoffset="0" data-voffset="60" data-speed="1000" data-start="1300" data-easing="Power4.easeOut">
-                                    Websites, Bradings & Web Apps
+                                    Websites, Bradings & Web Apps Designs.
                                 </div>
                                 <div class="tp-caption sfb hidden-xs" data-x="520" data-y="center" data-hoffset="0" data-voffset="150" data-speed="1000" data-start="1700" data-easing="Power4.easeOut">
                                     <a href="#about" class="btn btn-primary btn-lg">LEARN MORE</a>
@@ -186,22 +186,14 @@
         <section id="whoWeAre">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-md-push-2 clearfix">
-                        <div class="section-heading scrollpoint sp-effect3">
-                            <h1>.we are bond<span>y</span>
-                            </h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur temporibus a illum deleniti? Quae, adipisci praesentium quis omnis dignissimos!</h4>
-                            <span class="divider"></span>
-                        </div>
-                    </div>
                     <div class="col-md-6">
                         <div class="media scrollpoint sp-effect2">
                             <a class="pull-left" href="#">
                                 <i class="media-object fa fa-star fa-4x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">clean & clear</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">Design Better</h4>
+                                <p>Depixen collaborate with modern graphic designers and help them them to design better graphics.</p>
                             </div>
                         </div>
                         <div class="media scrollpoint sp-effect2">
@@ -209,8 +201,8 @@
                                 <i class="media-object fa fa-support fa-4x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">24/7/365 support</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">Work Faster</h4>
+                                <p>Time collapsed in designing can slow down workflow, we provide high resolution graphic designs free of cost.</p>
                             </div>
                         </div>
                     </div>
@@ -220,8 +212,8 @@
                                 <i class="media-object fa fa-send fa-4x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">multipurpose layout</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">multipurpose Designs</h4>
+                                <p>Designs created in Depixen, can be used in any device for multipurpose & are responsive. </p>
                             </div>
                         </div>
                         <div class="media right scrollpoint sp-effect1">
@@ -229,121 +221,10 @@
                                 <i class="media-object fa fa-slack fa-4x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">pixed perfect</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">24/7 Support</h4>
+                                <p>We will feel very happy to help you & available 24/7</p>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="about">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-push-2 clearfix">
-                        <div class="section-heading scrollpoint sp-effect3">
-                            <h1>about depixe<span>n</span>
-                            </h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur temporibus a illum deleniti? Quae, adipisci praesentium quis omnis dignissimos!</h4>
-                            <span class="divider"></span>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="row">
-                            <div class="col-md-12 scrollpoint sp-effect4">
-                                <img src="depixen/img/dep14.jpg" class="img-responsive img-center" alt="">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-3">
-                                <div class="media vertical scrollpoint sp-effect5">
-                                    <a href="#">
-                                        <i class="media-object fa fa-university fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">Why Bondy</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="media vertical scrollpoint sp-effect5">
-                                    <a href="#">
-                                        <i class="media-object fa fa-user fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">what we do</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="media vertical scrollpoint sp-effect5">
-                                    <a href="#">
-                                        <i class="media-object fa fa-umbrella fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">our history</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-3">
-                                <div class="media vertical scrollpoint sp-effect5">
-                                    <a href="#">
-                                        <i class="media-object fa fa-taxi fa-2x"></i>
-                                    </a>
-                                    <div class="media-body">
-                                        <h4 class="media-heading">Achievments</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </section>
-
-        <section id="highlights">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                            <!-- Indicators -->
-                            <ol class="carousel-indicators vertical">
-                                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                            </ol>
-
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner">
-                                <div class="item active">
-                                    <img src="depixen/img/samples/600-300/2.jpg" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="depixen/img/samples/600-300/3.jpg" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="depixen/img/samples/600-300/1.jpg" alt="">
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <h4>Company highlights</h4>
-                        <h5>This is how we have aachieved the success!</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, nisi, debitis, quia molestiae ipsa dolores beatae eaque nulla tempora deserunt sunt suscipit quisquam laborum magnam aut reiciendis sed pariatur totam!</p>
-                        <ul>
-                            <li>Aenean sodales justo in neque adipiscing pulvinar.</li>
-                            <li>Vivamus faucibus nisi et fermentum mattis.</li>
-                            <li>Proin commodo lorem non gravida varius.</li>
-                            <li>Proin condimentum lacus sed tristique lacinia.</li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -353,18 +234,18 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5 scrollpoint sp-effect1">
-                        <img src="depixen/img/dep15.jpg" class="img-responsive  img-center" alt="">
+                        <img src="depixen/img/dep15.jpg"  class="img-responsive img-center" alt="">
                     </div>
                     <div class="col-md-7 scrollpoint sp-effect2">
-                        <h1>.Core Features of bond<span>Y</span>
+                        <h1>Core Features of Depixen
                         </h1>
                         <div class="media media-circle">
                             <a class="pull-left" href="#">
                                 <i class="media-object fa fa-angle-right fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Beautiful</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">Powerful design</h4>
+                                <p> Upload your design files and add animations, gestures, and transitions to transform your static screens into clickable, interactive prototypes.</p>
                             </div>
                         </div>
                         <div class="media media-circle">
@@ -372,8 +253,8 @@
                                 <i class="media-object fa fa-angle-right fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Powerful</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">Design driven project</h4>
+                                <p>Manage your project screens and statuses from one single location, quickly see unread comments, preview screens, and notify team members when changes to screen status are made.</p>
                             </div>
                         </div>
                         <div class="media media-circle">
@@ -381,8 +262,8 @@
                                 <i class="media-object fa fa-angle-right fa-2x"></i>
                             </a>
                             <div class="media-body">
-                                <h4 class="media-heading">Responsive</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa repellendus aspernatur corrupti ex soluta vel ad quibusdam.</p>
+                                <h4 class="media-heading">Reimagined presentation</h4>
+                                <p>Create context around your projects with Boards—flexible spaces to store, share, and talk about design ideas.</p>
                             </div>
                         </div>
                     </div>
@@ -395,8 +276,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading scrollpoint sp-effect3">
-                            <h1>.Services we offer</h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur.</h4>
+                            <h1>Our Services</h1>
+                            
                             <span class="divider"></span>
                         </div>
                     </div>
@@ -408,8 +289,8 @@
                                         <i class="media-object fa fa-mobile fa-2x"></i>
                                     </a>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Mobile development</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <h4 class="media-heading">Logo design</h4>
+                                        <p>Beautiful, high resolution, Impressive logo being created in depixen.</p>
                                     </div>
                                 </div>
                                 <div class="media media-services right scrollpoint sp-effect2">
@@ -417,8 +298,8 @@
                                         <i class="media-object fa fa-link fa-2x"></i>
                                     </a>
                                     <div class="media-body">
-                                        <h4 class="media-heading">networking</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <h4 class="media-heading">Webpage design</h4>
+                                        <p>First impression of any organization depends on website, our team is highly experienced in it.</p>
                                     </div>
                                 </div>
                                 <div class="media media-services right scrollpoint sp-effect1">
@@ -426,8 +307,8 @@
                                         <i class="media-object fa fa-film fa-2x"></i>
                                     </a>
                                     <div class="media-body">
-                                        <h4 class="media-heading">video editing</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <h4 class="media-heading">Templates</h4>
+                                        <p>Best way to get a smart, beautiful, reponsive template at depixen and make impression. </p>
                                     </div>
                                 </div>
                             </div>
@@ -437,8 +318,8 @@
                                         <i class="media-object fa fa-send-o fa-2x"></i>
                                     </a>
                                     <div class="media-body">
-                                        <h4 class="media-heading">startup launching</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <h4 class="media-heading">Themes</h4>
+                                        <p>Depixen have over hundreds of themes that will suit your requirement for website. </p>
                                     </div>
                                 </div>
                                 <div class="media media-services scrollpoint sp-effect1">
@@ -447,7 +328,7 @@
                                     </a>
                                     <div class="media-body">
                                         <h4 class="media-heading">ui / ux design</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <p>Depixen collaborates with modern UI/UX designers or you don't need to hire them.</p>
                                     </div>
                                 </div>
                                 <div class="media media-services scrollpoint sp-effect2">
@@ -455,8 +336,8 @@
                                         <i class="media-object fa fa-shopping-cart fa-2x"></i>
                                     </a>
                                     <div class="media-body">
-                                        <h4 class="media-heading">e-commerce solutions</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, eligendi ipsa.</p>
+                                        <h4 class="media-heading">Startup Launcher</h4>
+                                        <p>What a startup needs we know very well and excited to support in designing part.</p>
                                     </div>
                                 </div>
                             </div>
@@ -466,59 +347,7 @@
             </div>
         </section>
 
-        <section id="testimonials">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-push-2 clearfix">
-                        <div class="section-heading scrollpoint sp-effect3">
-                            <i class="fa fa-quote-left fa-4x"></i>
-                            <h3>.Client's testimonials</h3>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur.</h4>
-                            <span class="divider"></span>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div id="testimonials-carousel" class="carousel slide scrollpoint sp-effect3" data-ride="carousel">
-                            <!-- Wrapper for slides -->
-                            <div class="carousel-inner">
-                                <div class="item active">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, cumque reprehenderit blanditiis consequatur magnam ipsa vitae deserunt odio nesciunt enim sint tempore magni sit alias illo quisquam unde. Laboriosam, minima!</p>
-                                    <div class="row">
-                                        <div class="col-md-4 col-md-push-5">
-                                            <div class="author">
-                                                <h5>Name dot name</h5>
-                                                <p>Senior UI Developer - ScoopThemes</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, cumque reprehenderit blanditiis consequatur magnam ipsa vitae deserunt odio nesciunt enim sint tempore magni sit alias illo quisquam unde. Laboriosam.</p>
-                                    <div class="row">
-                                        <div class="col-md-4 col-md-push-5">
-                                            <div class="author">
-                                                <h5>Name dot name</h5>
-                                                <p>Senior UI Developer - ScoopThemes</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <!-- Controls -->
-                            <a class="left carousel-control" href="#testimonials-carousel" data-slide="prev">
-                                <i class="fa fa-angle-left fa-3x"></i>
-                            </a>
-                            <a class="right carousel-control" href="#testimonials-carousel" data-slide="next">
-                                <i class="fa fa-angle-right fa-3x"></i>
-                            </a>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-
+     
         <section id="buyNow">
             <div class="container">
                 <div class="row">
@@ -526,134 +355,10 @@
                         <img src="depixen/img/samples/macbook-bl.png" alt="" class="img-responsive macbook-image img-center">
                     </div>
                     <div class="col-md-5 scrollpoint sp-effect1">
-                        <h1>.Buy bond<span>y</span>
+                        <h1>Start Using Depixen Free
                         </h1>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis esse velit nesciunt. Eius, atque, animi quidem libero harum modi cumque similique eveniet consequuntur dignissimos beatae necessitatibus ipsum cum unde deleniti! animi quidem libero harum modi cumque similique eveniet consequuntur!</p>
-                        <a href="#" class="btn btn-primary btn-lg">Buy now</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="team">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-push-2 clearfix">
-                        <div class="section-heading scrollpoint sp-effect3">
-                            <h1>.Meet the team</h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur.</h4>
-                            <span class="divider"></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="row">
-                            <div class="member scrollpoint sp-effect5">
-                                <div class="member-image">
-                                    <img src="depixen/img/samples/team/1.jpg" alt="" class="img-responsive img-center">
-                                    <div class="member-details">
-                                        <h4>Connect with me</h4>
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, esse molestiae voluptates</p>
-                                    </div>
-                                </div>
-                                <div class="member-name">
-                                    <h4>Sara jones</h4>
-                                    <p>Art Director</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="row">
-                            <div class="member scrollpoint sp-effect3">
-                                <div class="member-image">
-                                    <img src="depixen/img/samples/team/2.jpg" alt="" class="img-responsive img-center">
-                                    <div class="member-details">
-                                        <h4>Connect with me</h4>
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, esse molestiae voluptates</p>
-                                    </div>
-                                </div>
-                                <div class="member-name member-odd">
-                                    <h4>jon Doe</h4>
-                                    <p>UI Developer</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="row">
-                            <div class="member scrollpoint sp-effect5">
-                                <div class="member-image">
-                                    <img src="depixen/img/samples/team/3.jpg" alt="" class="img-responsive img-center">
-                                    <div class="member-details">
-                                        <h4>Connect with me</h4>
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, esse molestiae voluptates</p>
-                                    </div>
-                                </div>
-                                <div class="member-name">
-                                    <h4>Sam jones</h4>
-                                    <p>Design Manager</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="row">
-                            <div class="member scrollpoint sp-effect3">
-                                <div class="member-image">
-                                    <img src="depixen/img/samples/team/4.jpg" alt="" class="img-responsive img-center">
-                                    <div class="member-details">
-                                        <h4>Connect with me</h4>
-                                        <ul class="social">
-                                            <li><a href="#"><i class="fa fa-google-plus fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                            </li>
-                                            <li><a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </li>
-                                        </ul>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, esse molestiae voluptates</p>
-                                    </div>
-                                </div>
-                                <div class="member-name member-odd">
-                                    <h4>Sofia jones</h4>
-                                    <p>IT Manager</p>
-                                </div>
-                            </div>
-                        </div>
+                        <p>Check your web and mobile product designs, and quickly incorporate user feedback. Hear what real users have to say - and see them interact with your prototype - with live video and audio recordings.</p>
+                        <a href="#" class="btn btn-primary btn-lg">Subscribe</a>
                     </div>
                 </div>
             </div>
@@ -664,7 +369,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading scrollpoint sp-effect3">
-                            <h3>.we got skills</h3>
+                            <h3>We are expert in</h3>
                             <span class="divider"></span>
                         </div>
                     </div>
@@ -674,25 +379,25 @@
                         <div class="chart" data-percent="95">
                             <span>95%</span>
                         </div>
-                        <h4 class="skill-detail">html/css</h4>
+                        <h4 class="skill-detail">Logo design</h4>
                     </div>
                     <div class="col-md-3 col-sm-6 scrollpoint sp-effect6 text-center">
                         <div class="chart" data-percent="75">
                             <span>75%</span>
                         </div>
-                        <h4 class="skill-detail">wordpress</h4>
+                        <h4 class="skill-detail">Webpage design</h4>
                     </div>
                     <div class="col-md-3 col-sm-6 scrollpoint sp-effect6 text-center">
                         <div class="chart" data-percent="55">
                             <span>55%</span>
                         </div>
-                        <h4 class="skill-detail">javascript</h4>
+                        <h4 class="skill-detail">Templates</h4>
                     </div>
                     <div class="col-md-3 col-sm-6 scrollpoint sp-effect6 text-center">
                         <div class="chart" data-percent="35">
                             <span>35%</span>
                         </div>
-                        <h4 class="skill-detail">python</h4>
+                        <h4 class="skill-detail">Themes</h4>
                     </div>
                 </div>
             </div>
@@ -703,8 +408,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading scrollpoint sp-effect3">
-                            <h1>.the work</h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis! Est qui quae consectetur.</h4>
+                            <h1>the work</h1>
+                            <h4>Depixen's fully vector-based workflow makes it easy to create beautiful, high-quality artwork from start to finish</h4>
                             <span class="divider"></span>
                         </div>
                     </div>
@@ -857,7 +562,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading white scrollpoint sp-effect3">
-                            <h1>.bond<span>y</span>@ twitter</h1>
+                            <h1>Depixen will handle designing, rest on you</h1>
                         </div>
                     </div>
                 </div>
@@ -875,7 +580,7 @@
                             <div class="item active">
                                 <div class="row">
                                     <div class="col-md-8 col-md-push-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, eos, non ad molestiae obcaecate sapiente dolorem magnam quisquam maiores voluptatem sunt cumque iure illo a dicta? <a href="https://twitter.com/scoopthemes">https://twitter.com/scoopthemes</a>
+                                        <p>Fully vector based workflow 
                                         </p>
                                     </div>
                                 </div>
@@ -883,16 +588,14 @@
                             <div class="item">
                                 <div class="row">
                                     <div class="col-md-8 col-md-push-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, eos, non ad molestiae obcaecate sapiente dolorem magnam quisquam maiores voluptatem sunt cumque iure illo a dicta? <a href="https://twitter.com/scoopthemes">https://twitter.com/scoopthemes</a>
-                                        </p>
+                                        <p>Easy to implement with your code</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="row">
                                     <div class="col-md-8 col-md-push-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, eos, non ad molestiae obcaecate sapiente dolorem magnam quisquam maiores voluptatem sunt cumque iure illo a dicta? <a href="https://twitter.com/scoopthemes">https://twitter.com/scoopthemes</a>
-                                        </p>
+                                        <p>It's free of cost, just sign up</p>
                                     </div>
                                 </div>
                             </div>
@@ -900,7 +603,7 @@
                     </div>
                     <div class="follow">
                         <a href="#" class="btn btn-empty text-center">
-                            <i class="fa fa-twitter"></i> Follow
+                            <i class="fa fa-facebook"></i> Connect
                         </a>
                     </div>
                 </div>
@@ -912,8 +615,8 @@
                 <div class="row">
                     <div class="col-md-8 col-md-push-2 clearfix">
                         <div class="section-heading scrollpoint sp-effect3">
-                            <h1>.get in touch</h1>
-                            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore reiciendis vel reprehenderit expedita cupiditate repellat debitis!</h4>
+                            <h1>Contact Us</h1>
+                            <h4>Please Send a query if any, we are here 24/7 for your support</h4>
                             <span class="divider"></span>
                         </div>
                     </div>
@@ -922,17 +625,14 @@
                     <div class="col-md-6">
                         <div class="contact-details">
                             <div class="detail">
-                                <h4>bond
-                                    <span class="brandy">y</span>web agency.</h4>
-                                <p>4, Some street, California, USA</p>
+                                <h4>Wimoxez Systems Pvt Ltd.
+                                    </h4>
+                                <p>plot no: 52 & 53<br>Neknampur, Rajendra nagar, Hyderabad</p>
                             </div>
-                            <div class="detail">
-                                <h4>call us</h4>
-                                <p>+1 234 567890</p>
-                            </div>
+                            
                             <div class="detail">
                                 <h4>email us</h4>
-                                <p>support@Bondy.com</p>
+                                <p>support@depixen.com</p>
                             </div>
                             <div class="detail">
                                 <ul class="clearfix">
@@ -972,18 +672,12 @@
             </div>
         </section>
 
-        <section id="map"></section>
-
+       
         <footer id="site-footer">
             <div class="container">
                 <div class="row">
                     <span class="divider grey"></span>
-                    <h4>2014 Bond<span class="brandy">y</span> Agency.</h4>
-                    <h5>by <a href="http://www.scoopthemes.com" target="_blank">ScoopThemes</a>
-                    </h5>
-                    <a href="#" class="scroll-top">
-                        <img src="depixen/img/top.png" alt="" class="top">
-                    </a>
+                    <h4>2017 &copy; Wimoxez Systems </h4>
                 </div>
             </div>
         </footer>
